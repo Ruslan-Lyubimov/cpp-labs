@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Project3\Project3\Source.cpp(10,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\User\source\repos\Project3\Project3\Source.cpp(21,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\User\source\repos\Project3\Project3\Source.cpp(55,46): warning C4305: аргумент: усечение из "double" в "float"
+  Project3.vcxproj -> C:\Users\User\source\repos\Project3\Debug\Project3.exe
